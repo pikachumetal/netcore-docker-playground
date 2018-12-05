@@ -3,15 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{6335CBDB-8B9F-4E9F-8117-332D72736E26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{6335CBDB-8B9F-4E9F-8117-332D72736E26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIZ", "BIZ\BIZ.csproj", "{0B4D5B4A-4019-4EAD-82C9-B774749DB6E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIZ", "BIZ\BIZ.csproj", "{0B4D5B4A-4019-4EAD-82C9-B774749DB6E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB", "WEB\WEB.csproj", "{77C617E3-62FB-4B13-90E4-5BDDD304F405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB", "WEB\WEB.csproj", "{77C617E3-62FB-4B13-90E4-5BDDD304F405}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCF1E3FF-D4C3-4FD8-B482-9032665B3F3E}"
 	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
